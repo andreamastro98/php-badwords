@@ -14,7 +14,7 @@
     <title>php-badwords</title>
 </head>
 <body>
-    <h1>Data una stringa con la parola 'password' sará restituita una stringa con la parola 'password' censurata</h1>
+    <h1>Data una stringa e una parola sará restituita una stringa con la parola data in input censurata</h1>
 
     <form action="risultatoEsercizio.php" method="POST">
         <div>
