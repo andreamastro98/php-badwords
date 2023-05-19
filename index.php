@@ -20,6 +20,10 @@
         <div>
             <label for="stringa">Stringa</label>
             <input type="text" placeholder="Inserisci la tua stringa" name="stringa">
+        </div>
+        <div>
+            <label for="parola">Inserisci la parola da censurare</label>
+            <input type="text" placeholder="Inserisci la parola da censurare" name="parola">
             <button type="submit">Invia</button>
         </div>
     </form>
